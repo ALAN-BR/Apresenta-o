@@ -1,5 +1,5 @@
 # ALAN-BR
-Olá, eu me chamo Alan e estou cursando Engenharia da Computação. Sou um novato na área da programação.
+Ola sou ALAN, Sou Estudante de Engenharia da Computação em busca de uma oportunidade de Estágio ou posição inicial na área de Tecnologia da Informação (TI). O objetivo é aplicar conhecimentos em lógica de programação, bancos de dados e análise de dados, contribuindo com proatividade para a resolução de problemas técnicos e otimização de processos internos. 
 
 
 # Conecte-se comigo
